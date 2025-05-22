@@ -10,7 +10,8 @@ Sau đó làm việc trên nhánh đó rồi commit code lên (sử dụng từn
 Rồi tạo pull request ở đây để tui kiểm tra code rồi add vào nhánh chính. Nếu được thì thêm cho tui 1 vài description để tui check cho dễ cũng được. Xong bấm nút xác nhận rồi chờ tui reply thôi
 # Một vài lưu ý
 Ngay trước khi mở Android Studio lên thì nhớ sử dụng git pull origin main để lấy code mới nhất được tui update trên nhánh main về làm để tránh bị lỗi HOẶC sử dụng git checkout main rồi git pull khi nào nó hiện ra giống như thế này là được.
-image
+![image](https://github.com/user-attachments/assets/55014337-adb9-4039-8beb-e1eaa1b2f46e)
+
 Sau khi đã pull xong thì chuyển nhánh sang nhánh của mấy ông git checkout ... rồi sử dụng git merge main để lấy đống code pull được từ trên nhánh main vào trong nhánh của ông
 Kiểm tra trạng thái nhánh trước khi làm việc: git status
 
