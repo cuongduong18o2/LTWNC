@@ -3,7 +3,7 @@ this is project of LTWNC subject
 # Các sử dụng git:
 # Tải git về ở đây
 Tạo một thư mục ở đâu đó trong máy. Bấm chuột phải vào thư mục đó chọn Open gitbash here
-Clone project về: git clone https://github.com/nupniichan/QuanLyTiemNet.git
+Clone project về: git clone https://github.com/cuongduong18o2/LTWNC.git
 Tạo nhánh mới (đừng sử dụng nhánh main): git branch (tên nhánh)
 Chuyển sang nhánh đó để làm việc: git checkout (tên nhánh)
 Sau đó làm việc trên nhánh đó rồi commit code lên (sử dụng từng lệnh đừng copy toàn bộ): git add . / git commit -m "tin nhắn (ví dụ: sửa bug, thêm tính năng ,...)" / git push
